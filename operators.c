@@ -54,4 +54,34 @@ void main(){
         x=5; y=++x;     x=6; y=6;   pre increment
 
 
+        Conditional Operators
+        ==      equals to operator
+        ===     Equivalent op
+        >
+        <
+        >=
+        <=
+        age>=18
+
+        Logical Operator
+        OR      ||
+        AND     &&
+        XOR     ^
+        NOT     !
+        age>=18  and age<=35
+
+        A   B   A||B    A&&B    A^B
+        0   0   0           0           0
+        0   1   1           0           1
+        1   0   1           0           1
+        1   1   1           1           0
+
+        A   !A
+        0   1
+        1   0
+
+
+        Bitwise Operator
+        byte b=12;      00001100
+
 */
